@@ -152,3 +152,7 @@ Top 5 processes by CPU usage:
 - For continuous monitoring, consider running it repeatedly or using dedicated monitoring tools
 - Some process information may require elevated privileges to display completely
 - The top 5 processes listing includes the header row, so 6 rows are displayed total
+
+## Project task 
+
+https://roadmap.sh/projects/server-stats
